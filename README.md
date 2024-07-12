@@ -1,2 +1,1 @@
-# Big_Mart_Analysis
-I learned it from the youtube.
+"BigMart Analysis using Machine Learning End to End Project" provides a comprehensive guide on predicting sales for BigMart using machine learning techniques. The project covers data preprocessing, feature engineering, model selection, and evaluation. It is designed to help viewers understand the entire workflow of a data science project, from data collection to making predictions. The video is suitable for beginners and those looking to solidify their understanding of practical machine learning applications.
